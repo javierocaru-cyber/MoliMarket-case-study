@@ -1,0 +1,10 @@
+{
+  "name": "molimarket-ejemplo-busqueda",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ejemplo": "bun --no-env-file run ejemplo.ts",
+    "test": "bun --no-env-file test busqueda.test.ts"
+  },
+  "engines": { "bun": ">=1.4.0" }
+}
