@@ -2,7 +2,11 @@
 
 **Una vitrina digital universitaria y el proceso de construcción que la acompaña.**
 
-[Ver el sitio en producción](https://molimarket.store/) · [Arquitectura](docs/arquitectura.md) · [Incorporación asistida](docs/incorporacion-asistida.md) · [MCP](docs/mcp.md)
+## 🌐 [Visita la página de MoliMarket](https://molimarket.store/)
+
+**Haz clic en el enlace para explorar el sitio web en funcionamiento:** [molimarket.store](https://molimarket.store/).
+
+[Arquitectura](docs/arquitectura.md) · [Incorporación asistida](docs/incorporacion-asistida.md) · [MCP](docs/mcp.md)
 
 MoliMarket ayuda a descubrir productos, servicios y emprendimientos de la comunidad universitaria. Permite explorar fichas y categorías, combinar filtros y contactar directamente a cada emprendimiento por sus canales. La búsqueda por frases interpreta criterios mediante reglas locales.
 
